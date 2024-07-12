@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Tutorial_Contact_Manager_App/static/css/main.f1b6076a.css",
+    "main.js": "/React_Tutorial_Contact_Manager_App/static/js/main.b2e06ae5.js",
+    "index.html": "/React_Tutorial_Contact_Manager_App/index.html",
+    "main.f1b6076a.css.map": "/React_Tutorial_Contact_Manager_App/static/css/main.f1b6076a.css.map",
+    "main.b2e06ae5.js.map": "/React_Tutorial_Contact_Manager_App/static/js/main.b2e06ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b6076a.css",
+    "static/js/main.b2e06ae5.js"
+  ]
+}
